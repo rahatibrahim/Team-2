@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-oooooo
+これは新しいブランチです
 </body>
 </html>
